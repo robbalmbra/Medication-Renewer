@@ -1,2 +1,5 @@
 # Medication-Renewer
-# Medication-Renewer
+
+## Info
+
+## Usage
